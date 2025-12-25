@@ -21,6 +21,7 @@ const Layout = ({ children }: LayoutProps) => {
     { icon: 'FileText', label: 'Домашние задания', path: '/homework' },
     { icon: 'Calendar', label: 'Расписание', path: '/schedule' },
     { icon: 'MessageSquare', label: 'Сообщения', path: '/messages' },
+    { icon: 'BarChart3', label: 'Аналитика', path: '/analytics' },
     { icon: 'User', label: 'Профиль', path: '/profile' },
     { icon: 'Settings', label: 'Настройки', path: '/settings' },
   ];
